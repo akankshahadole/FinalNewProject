@@ -1,0 +1,85 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	/*background-color: darkred;
+	color: white;*/
+padding: 50px;
+}
+.container{
+	padding: 20px;
+	height: 600px;
+/*	width: 100%;*/
+	background: #2B3856;
+	/*filter: blur(40px);
+	z-index: -1;*/
+/*	transform: translate(10px);*/
+/*	color:orangered;*/
+/*background: linear-gradient(to right, #8360c3,#2ebf91);
+	filter: blur(30px);
+	opacity: 1;*/
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.container-card{
+	
+	height: 400px;
+	width: 260px;
+	padding: 15px;
+/*	border: solid red;*/
+	border-radius: 12px;
+/*	background-color: #4863A0;*/
+	background-color: #2B547E;
+}
+.img{
+	width: 225px;
+}
+.card-seco{
+	height: 120px;
+	width: 100%;*/
+}
+.eq{
+	height: 50px;
+	color: #FFC0CB;
+}
+.seco-down{
+	color: #ADD8E6;
+}
+.card-three{
+	height: 18px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.three-up{
+	color: #00FFFF;
+}
+.three-do{
+	color: #ADD8E6;
+}
+.foot{
+	display: flex;
+/*	flex-direction: column;*/
+	align-content: center;
+	justify-content: center;
+	color: #ADD8E6;
+
+}
+.clock{
+	height: 13px;
+	width: 13px;
+	color: #ADD8E6;
+}
+.ethe{
+   height: 13px;
+	width: 13px;	
+}
+.avt{
+	height: 16px;
+	width: 16px;
+	border-radius: 7px;
+}
